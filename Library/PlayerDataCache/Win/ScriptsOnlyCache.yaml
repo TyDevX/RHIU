@@ -45,31 +45,33 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11248}
+      Script: {instanceID: 11274}
     - Class: 114
-      Script: {instanceID: 11446}
+      Script: {instanceID: 11472}
     - Class: 114
-      Script: {instanceID: 11832}
+      Script: {instanceID: 11860}
     - Class: 114
-      Script: {instanceID: 11858}
+      Script: {instanceID: 11886}
     - Class: 114
-      Script: {instanceID: 12216}
+      Script: {instanceID: 12246}
     - Class: 114
-      Script: {instanceID: 12238}
+      Script: {instanceID: 12268}
     - Class: 114
-      Script: {instanceID: 12436}
+      Script: {instanceID: 12466}
     - Class: 114
-      Script: {instanceID: 12450}
+      Script: {instanceID: 12480}
     - Class: 114
-      Script: {instanceID: 12632}
+      Script: {instanceID: 12662}
     - Class: 114
-      Script: {instanceID: 12694}
+      Script: {instanceID: 12724}
     - Class: 114
-      Script: {instanceID: 12844}
+      Script: {instanceID: 12744}
     - Class: 114
-      Script: {instanceID: 13044}
+      Script: {instanceID: 12876}
     - Class: 114
-      Script: {instanceID: 13526}
+      Script: {instanceID: 13076}
+    - Class: 114
+      Script: {instanceID: 13470}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -395,6 +397,12 @@ ScriptsOnlyBuild:
     className: GraphicRaycaster
   - hash:
       serializedVersion: 2
+      Hash: 9f8afbcc32e8629806b9067ff1656ea9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RHI
+  - hash:
+      serializedVersion: 2
       Hash: 8e6ceabfd38a184413d69b7db56c89cc
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
@@ -507,12 +515,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 9f8afbcc32e8629806b9067ff1656ea9
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: RHI
   platform: 5
   scenePathNames:
   - Assets/Scenes/MainScene.unity
