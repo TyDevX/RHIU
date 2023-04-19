@@ -4,8 +4,6 @@
 
 # How long this shit took
 
-### Take this cool fumo lol
-
 ![Totally didn't spend almost 1 hour and 30 mins on this.](speedrun.png)
 
 <hr>
