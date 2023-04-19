@@ -2,7 +2,9 @@
 
 * A remake of Random Hentai Image in the Unity Engine.
 
-# How long this shit took
+* Check the [Changelog](https://github.com/YukiMD/RHIU/blob/main/Changelog.md) to see what was added.
+
+# How long 1.0 took
 
 ![Totally didn't spend almost 1 hour and 30 mins on this.](speedrun.png)
 
